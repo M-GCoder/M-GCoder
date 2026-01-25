@@ -19,7 +19,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameM-GCoder&show_icons=true&theme=radical" alt="Abdullah GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-GCoder&show_icons=true&theme=radical" alt="Abdullah GitHub Stats"/>
 </p>
 
 <p align="center">
