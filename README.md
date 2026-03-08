@@ -10,6 +10,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
+<!-- Hero Banner -->
+<img src="https://github.com/M-GCoder/M-GCoder/blob/main/github-header-image.png" width="100%">
+
+<!-- Intro -->
+<h3 align="center">A Passionate ML Engineer & Data Scientist</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="www.github.com/M-GCoder">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;Data%20Scientist;ML%20Engineer;AI%20MLOps%20Developer;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/assitixenhances ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assitixenchancement369@gmail.com) 
