@@ -27,8 +27,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/assitixenhances ) [![linkedIn](https://img.shields.io/badge/LinkedIn-%23E7405F.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abdullah-idrees-204059398 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assitixenchancement369@gmail.com) 
+<!-- ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/assitixenhances ) [![linkedIn](https://img.shields.io/badge/LinkedIn-%23E7405F.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abdullah-idrees-204059398 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assitixenchancement369@gmail.com) --> 
 
 <!--  🌐 Connect with Me  -->
 
