@@ -19,7 +19,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="www.github.com/M-GCoder">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;Data%20Scientist;ML%20Engineer;AI%20MLOps%20Developer;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;ML%20Engineer;AI%20MLOps%20Developer;Full%20Stack%20Development;Flutter%20Mobile%20App%20Developer&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
