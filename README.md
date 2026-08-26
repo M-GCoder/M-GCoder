@@ -184,7 +184,7 @@
   </a>
 </div>
 
-## Snake Animation
+##
 
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
